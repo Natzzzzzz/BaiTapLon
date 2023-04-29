@@ -1,0 +1,41 @@
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.SignIn.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.SignUp.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Products.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Agents.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.ChooseForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.OrderForm.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Filter.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\obj\Debug\ExerciseOne.Print.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL2\Ex1\ExerciseOne\obj\Debug\ExerciseOne.pdb
+D:\Download\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\Download\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\Download\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\Download\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\Download\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\Download\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.Print.resources
+D:\Download\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\Download\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\Download\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\Download\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\Download\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.pdb
+D:\Download\ExerciseOne\ExerciseOne\bin\Debug\Guna.UI2.dll
+D:\Download\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.CopyComplete

@@ -1,0 +1,29 @@
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.pdb
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.SignIn.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.SignUp.resources
+D:\TDT\Nam2\hk2_nam2\CNPM\Thực hành\BTL\ExerciseOne\obj\Debug\ExerciseOne.Products.resources
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\bin\Debug\ExerciseOne.exe
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\bin\Debug\ExerciseOne.pdb
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.AssemblyReference.cache
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.SuggestedBindingRedirects.cache
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.Products.resources
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.SignIn.resources
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.SignUp.resources
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.exe
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.pdb
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\bin\Debug\Guna.UI2.dll
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.csproj.CopyComplete
+D:\Tailieu\code\CNPM\BTL\BTL\ExerciseOne\obj\Debug\ExerciseOne.Main.resources
